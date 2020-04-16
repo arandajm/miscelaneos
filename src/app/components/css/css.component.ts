@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-css',
   template: `
     <p>
-      css works!
+      css inide the component works!
     </p>
   `,
   styles: [
